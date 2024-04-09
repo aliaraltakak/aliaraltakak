@@ -1,4 +1,4 @@
-<h3 align="left">About:</h3>
+<h2 align="left">About:</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">Stats:</h3>
+<h2 align="left">Stats:</h2>
 
 ###
 
