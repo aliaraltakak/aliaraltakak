@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Currently a student of Electrical and Electronics Engineering in Bilkent University.<br><br>-Interested in ML/AI/DL and Embedded Programming.</p>
+<p align="left">-Currently a student of Electrical and Electronics Engineering in Bilkent University.<br><br>-Interested in ML/AI/DL, Embedded Programming, and Robotics.</p>
 
 ###
 
